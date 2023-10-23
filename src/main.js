@@ -46,8 +46,8 @@ Vue.use(vuetify, {
 
 
 
-axios.defaults.baseURL='http://41.59.227.181/AMS/public/api'
-// axios.defaults.baseURL='http://127.0.0.1:8000/api/AMS'
+// axios.defaults.baseURL='http://41.59.227.181/AMS/public/api'
+axios.defaults.baseURL='http://127.0.0.1:8000/api/AMS'
 
 Vue.config.productionTip = false
 
