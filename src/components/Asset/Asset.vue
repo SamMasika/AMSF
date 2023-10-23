@@ -752,9 +752,9 @@ export default {
 @media (max-width: 768px) {
 
     /* Hide the text labels in the tab items */
-    .tab-label {
+    /* .tab-label {
         display: none;
-    }
+    } */
 }
 
 @media (max-width: 768px) {
