@@ -238,38 +238,38 @@
                     <v-card-text>
 
                     <v-tabs vertical>
-                        <v-tab class="">
+                        <v-tab class="my-3 btn">
                             <v-icon left>
                                 mdi-laptop
                             </v-icon>
                             <span class="tab-label">Computers</span>
                         </v-tab>
-                        <v-tab class="">
+                        <v-tab class="my-3 btn">
                             <v-icon left>
                                 mdi-phone-classic
                             </v-icon>
                             <span class="tab-label">Phones</span>
                         </v-tab>
-                        <v-tab class="">
+                        <v-tab class="my-3 btn">
                             <v-icon left>
                                 mdi-television-classic
                             </v-icon>
                             <span class="tab-label">Televisions</span>
                         </v-tab>
                         
-                        <v-tab class="">
+                        <v-tab class="my-3 btn">
                             <v-icon left>
                                 mdi-printer
                             </v-icon>
                             <span class="tab-label">Printers</span>
                         </v-tab>
-                        <v-tab class="">
+                        <v-tab class="my-3 btn">
                             <v-icon left>
                                 mdi-harddisk
                             </v-icon>
                             <span class="tab-label"> Disks</span>
                         </v-tab>
-                        <!-- <v-tab class="">
+                        <!-- <v-tab class="my-3 btn">
                             <v-icon left>
                                 mdi-fridge
                             </v-icon>
