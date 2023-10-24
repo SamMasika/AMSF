@@ -642,7 +642,6 @@ export default {
                     this.successMessage = ''; // Clear any existing success message
                 });
             this.dialogAsset = false
-
         },
 
         //DeleteAsset
@@ -667,7 +666,6 @@ export default {
                     this.successMessage = ''; // Clear any existing success message
                 });
         },
-
         deleteDialog(item) {
             this.assetToDelete = item;
             this.confirmDialogVisible = true;
